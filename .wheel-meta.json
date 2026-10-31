@@ -1,0 +1,22 @@
+{
+  "wheel_id": 589,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-115",
+  "project": "retaining-wall-builders-gold-coast-questions-to-ask-4e5da5e5414",
+  "parent_t1_ref": "goldcoastretainingwall-158",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining wall builders gold coast questions to ask",
+  "intended_url": "https://sitesau.github.io/goldcoastretainingwall-115/",
+  "tier": "T2",
+  "writeback_nonce": "d51f2c61222b6a2d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-builders-gold-coast-how-to-choose-de8bf92f72c87c/",
+      "anchor": "retaining wall builders gold coast how to choose",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
